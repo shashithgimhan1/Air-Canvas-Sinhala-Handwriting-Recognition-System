@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+tensorflow
+tf_keras
+numpy==1.26.4
+Pillow
